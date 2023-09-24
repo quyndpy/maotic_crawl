@@ -1,0 +1,13 @@
+Hello,
+on this web there is a map with washing centers in the Czechia
+https://www.mapotic.com/samoobsluzne-myci-boxy?zoom=7&lng=16.15076065063477&lat=49.76413578429466
+There should be 339 records.
+By clicking a place on the map, you get a record detail.
+I need to scrape all these places with their detail (detail only what is shown on the picture).
+Is it possible to scrape even the pictures and if so, how to link the record and the picture ?
+The output of this project should be:
+- data file(s) with the records
+- reusable script (source + exe)
+
+Thank you,
+Petr
